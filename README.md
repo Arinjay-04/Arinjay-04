@@ -16,13 +16,15 @@
 
 - 📫 How to reach me **arinjaypatil.2004@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dFZ0wpZqgAv3dkVcUJPYXkWNVz9fCcn8/view?usp=drivesdk](https://drive.google.com/file/d/1dFZ0wpZqgAv3dkVcUJPYXkWNVz9fCcn8/view?usp=drivesdk)
+- 📄 Know about my experiences ([https://drive.google.com/file/d/1dFZ0wpZqgAv3dkVcUJPYXkWNVz9fCcn8/view?usp=drivesdk](https://drive.google.com/file/d/1025N4ZXkIX7TvL_uVoOIR25SCLjyHQTR/view?usp=sharing))
 
 - ⚡ Fun fact **I love coding while listening musics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/arinjay patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arinjay patil" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/
+arinjay-patil-3262a9248
+" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arinjay patil" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
