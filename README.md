@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Pulsiefy**
 
-- 🌱 I’m currently learning **Cyber Security , DBMS , Backend Development**
+- 🌱 I’m currently learning **Data Structure and Algorithm ,Backend Development ,DBMS**
 
 - 📝 I regularly write articles on [Robotics https://www.linkedin.com/posts/pictrobotics_robotics-roboticsengineering-roboticsinnovation-ugcPost-7138196827434127360-CwDi?utm_source=share&utm_medium=member_android](Robotics https://www.linkedin.com/posts/pictrobotics_robotics-roboticsengineering-roboticsinnovation-ugcPost-7138196827434127360-CwDi?utm_source=share&utm_medium=member_android)
 
