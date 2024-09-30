@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arinjay-04&label=Profile%20views&color=0e75b6&style=flat" alt="arinjay-04" /> </p>
 
-- 🔭 I’m currently working on **Pulsiefy**
+- 🔭 Currently on a journey of learning **Professional Backend**
 
 - 🌱 I’m currently learning **Data Structure and Algorithm ,Backend Development ,DBMS**
 
