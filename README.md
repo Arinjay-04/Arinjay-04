@@ -1,4 +1,4 @@
-
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/475eb095746151.5e9ecde695f7a.gif)](https://github.com/Arinjay-04/Arinjay-04/blob/main/README.md)
 
 # 💫 About Me:
 🔭 Exploring the World of Backend Development<br>Currently deepening my expertise in Backend Development, Data Structures & Algorithms, and Database Management Systems (DBMS).<br><br>🌱 Continuous Learner<br>I’m always striving to enhance my skills, with a strong focus on MERN stack, SQL, and C++.<br><br>📝 Sharing Knowledge<br>I frequently write about Robotics and its cutting-edge advancements. Check out my latest article on LinkedIn: Exploring Robotics Innovations<br><br>💬 Ask Me About<br>If you need insights into MERN stack, SQL, C++, or Data Structures & Algorithms, feel free to reach out.<br><br>📫 Let’s Connect<br>Contact me via email: arinjaypatil.2004@gmail.com<br><br>📄 Explore My Experiences<br>Dive into my professional journey: Resume<br><br>⚡ Fun Fact<br>I love to code while vibing to good music!
